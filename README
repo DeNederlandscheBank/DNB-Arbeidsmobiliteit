@@ -14,19 +14,29 @@ Dit document bestaat uit drie gedeeltes:
 
 1. Werken met GitHub
 GitHub maakt het mogelijk codes (bv. do-files) te delen en te bewerken zonder dat we over elkaars aanpassingen schrijven.
-Deze worden opgeslagen in een repository (of repo). Er is een soort hoofd repo waar alles op staat (de remote). 
-Het is handig om een clone aan te maken die op je eigen computer of werkomgeving staat. Deze is identiek aan de remote repo
-en bestaat uit een "main" branch (hierna main). Het is gebruikelijk om, als je aanpassingen wil doen, 
-eerst een nieuwe branch te creëren. Je kan in deze nieuwe branch aanpassingen doen. Als je klaar bent en tevreden bent met 
-de aanpassingen kun je de nieuwe branch naar de remote pushen. Hier worden de aanpassingen goedgekeurd door de codeowner
-en gemerged met de main branch. De nieuwe branch kan nu zowel lokaal als op de remote worden verwijderd. 
+Deze bestanden worden opgeslagen in een repository (of repo). Er is een hoofd repo waar alles op staat (de remote). 
+Het is handig om een clone aan te maken van deze remote, die op je eigen computer of werkomgeving staat. 
+Deze is identiek aan de remote repo op het moment van aanmaken.
+In beginsel bestaat de repo uit een "main" branch (hierna main). 
+Het is gebruikelijk om, als je aanpassingen wil doen, eerst een nieuwe branch te creëren.
+Je kan in deze nieuwe branch aanpassingen maken.
+Als je klaar bent en tevreden bent met de aanpassingen kun je de nieuwe branch naar de remote pushen. 
+Hier worden de aanpassingen goedgekeurd door de codeowner en gemerged met de main branch. 
+De nieuwe branch kan nu zowel lokaal als op de remote worden verwijderd. 
 
 2. Regels samenwerken
-Om te voorkomen dat do-files (of andere code bestanden) helemaal worden veranderd zonder dat de aanmaker dat wil, moeten 
-aanpassingen worden goedgekeurd door de codeowner. In deze repo is het gebruikelijk dat de aanmaker van een bestand codeowner
-wordt. Als je nieuwe bestanden wil uploaden, doe dit dan in een nieuwe map genoemd naar de organisatie van degene die hem upload
-en wat de codes in de map doen. In het bestand CODEOWNERS kan je dan aanpassen dat jij de codeowner van die map bent. 
+Om te voorkomen dat do-files (of andere code bestanden) helemaal worden veranderd zonder dat de aanmaker dat wil, 
+moeten aanpassingen worden goedgekeurd door de codeowner. 
+In deze repo is het gebruikelijk dat de aanmaker van een bestand codeowner wordt. 
+Als je nieuwe bestanden wil uploaden, doe dit dan in een nieuwe map genoemd. 
+Noem deze map naar de organisatie van degene die hem upload en wat de codes in de map doen. 
+In het bestand CODEOWNERS kan je dan aanpassen dat jij de codeowner van die map bent. 
 Deze aanpassingen kun je toevoegen zoals beschreven staat onder punt 1. 
 
 3. Tips & Tricks GitHub
+Als je nieuw bent bij Git of GitHub, lees dan het introductie document: GitHub_DNB_Arbeidsmobiliteit.docx in deze repo.
+Zijn er dingen onduidelijk of werken ze niet, dan kun je ook een issue melden, door linksboven op "Issues" de klikken.  
+Maak dan een "New Issue" aan. De administrator van deze repo zal er dan naar kijken en het proberen op te lossen of contact zoeken.
+
+
 
