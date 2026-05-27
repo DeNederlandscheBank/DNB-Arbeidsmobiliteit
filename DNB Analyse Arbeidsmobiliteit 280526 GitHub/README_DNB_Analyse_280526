@@ -1,0 +1,20 @@
+## Data and Code Availability
+This folder contains the scripts used to process the data and generate the tables and figures reported in "Wisselen van werkgever, maar ook van bedrijfstak?",
+published on May 28, 2026. It also contains the derived datasets underlying the published results. The original microdata used in this study are CBS microdata. 
+This data is confidential and cannot be made publicly available due to legal and privacy restrictions. 
+This repository therefore does not include the underlying confidential microdata.
+
+## Reuse and citation
+The materials in this repository (code and derived data) are provided to support transparency and reproducibility of the research.
+Users are free to use these materials for research and other purposes, provided that appropriate academic credit is given. 
+If you use the data, code, or other materials from this repository, please cite the associated publication:
+Volkerink, M., Ruland, A., & Biesenbeek, C. (2026). Wisselen van werkgever, maar ook van bedrijfstak? 
+Een empirische analyse van sectorale arbeidsmobiliteit (DNB Analyse). De Nederlandsche Bank.
+
+## Notes
+- Derived datasets correspond to the data underlying the tables and figures in the publication.
+- Scripts are provided to document the data processing and analysis steps.
+- The repository is provided “as is”, without warranty of any kind.
+- If you want to run the scripts for yourself, you have to follow the order indicated by the number at the beginning of the file name.
+
+For questions or replication requests, please contact a.ruland@dnb.nl or m.d.volkerink@dnb.nl 
