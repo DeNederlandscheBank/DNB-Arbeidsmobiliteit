@@ -1,45 +1,7 @@
-DNB GitHub Arbeidsmobiliteit -  READ ME
+DNB GitHub Labour Mobility – README
 
-Deze repository is bedoeld om materiaal en kennis over arbeidsmobiliteit 
-te verzamelen en te delen met stakeholders die zich met dit onderwerp bezighouden. 
-We delen hier codes en documentatie die helpen bij het werken met data
-en inzichten geeft over verschillende methoden.
-
-Lees dit document voor uitleg en werkwijze. 
-Bij vragen of onduidelijkheden, mail dan naar a.ruland@dnb.nl of creër een "Issue".
-Dit document bestaat uit drie gedeeltes:
-1. Werken met GitHub
-2. Regels samenwerken 
-3. Tips & Tricks GitHub
-
-1. Werken met GitHub
-GitHub maakt het mogelijk codes (bv. do-files) te delen en te bewerken zonder dat we over elkaars aanpassingen schrijven.
-Deze bestanden worden opgeslagen in een repository (of repo). Er is een hoofd repo waar alles op staat (de remote). 
-Het is handig om een clone aan te maken van deze remote, die op je eigen computer of werkomgeving staat. 
-Deze is identiek aan de remote repo op het moment van aanmaken.
-In beginsel bestaat de repo uit een "main" branch (hierna main). 
-Het is gebruikelijk om, als je aanpassingen wil doen, eerst een nieuwe branch te creëren.
-Je kan in deze nieuwe branch aanpassingen maken.
-Als je klaar bent en tevreden bent met de aanpassingen kun je de nieuwe branch naar de remote pushen. 
-Hier worden de aanpassingen goedgekeurd door de codeowner en gemerged met de main branch. 
-De nieuwe branch kan nu zowel lokaal als op de remote worden verwijderd. 
-
-2. Regels samenwerken
-Om te voorkomen dat do-files (of andere code bestanden) helemaal worden veranderd zonder dat de aanmaker dat wil, 
-moeten aanpassingen worden goedgekeurd door de codeowner. 
-In deze repo is het gebruikelijk dat de aanmaker van een bestand codeowner wordt. 
-Als je nieuwe bestanden wil uploaden, doe dit dan in een nieuwe map genoemd. 
-Noem deze map naar de organisatie van degene die hem upload en wat de codes in de map doen. 
-In het bestand CODEOWNERS kan je dan aanpassen dat jij de codeowner van die map bent. 
-Deze aanpassingen kun je toevoegen zoals beschreven staat onder punt 1. 
-
-3. Tips & Tricks GitHub
-Als je nieuw bent bij Git of GitHub, lees dan het introductie document: GitHub_DNB_Arbeidsmobiliteit.docx in deze repo.
-Zijn er dingen onduidelijk of werken ze niet, dan kun je ook een issue melden, door linksboven op "Issues" de klikken.  
-Maak dan een "New Issue" aan. De administrator van deze repo zal er dan naar kijken en het proberen op te lossen of contact zoeken.
-Je kunt deze "Issues" ook voor inhoudelijke zaken/vragen gebruiken, zoals vragen/uitleg over de code zelf.
-
-We kijken uit naar een mooie samenwerking!
-Git ze!
-Cindy, Maikel en Astrid
+This repository is intended to collect and share materials and knowledge on labour mobility.
+We share code and documentation here to support working with data and to provide insights into different methods.
+Read this document for explanation and guidelines.
+If you have any questions or uncertainties, please email a.ruland@dnb.nl or create an “Issue”.
 
