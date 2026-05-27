@@ -2,6 +2,16 @@ DNB GitHub Labour Mobility – README
 
 This repository is intended to collect and share materials and knowledge on labour mobility.
 We share code and documentation here to support working with data and to provide insights into different methods.
-Read this document for explanation and guidelines.
 If you have any questions or uncertainties, please email a.ruland@dnb.nl or create an “Issue”.
 
+We recently published a DNB-Analyse "Wisselen van werkgever, maar ook van bedrijfstak? Een empirische analyse van sectorale arbeidsmobiliteit".
+The scripts and underlying material for tables/figures can be found in the folder called "DNB Analyse Arbeidsmobiliteit 280526 GitHub".
+Users are free to use these materials for research and other purposes, provided that appropriate academic credit is given.
+If you use the data, code, or other materials from this repository, please cite the associated publication:
+Volkerink, M., Ruland, A., & Biesenbeek, C. (2026). Wisselen van werkgever, maar ook van bedrijfstak? 
+Een empirische analyse van sectorale arbeidsmobiliteit (DNB Analyse). De Nederlandsche Bank.
+
+PS: If you would like to add your own scripts or suggest changes to existing scripts, please read "Collaboration info".
+
+Best wishes,
+Maikel and Astrid
