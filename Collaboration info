@@ -1,0 +1,47 @@
+DNB GitHub Labour Mobility – Collaboration info
+
+This repository is intended to collect and share materials and knowledge on labour mobility with stakeholders involved in this topic.
+We share code and documentation here to support working with data and to provide insights into different methods.
+Read this document for explanation and guidelines.
+If you have any questions or uncertainties, please email a.ruland@dnb.nl or create an Issue.
+This document consists of three sections:
+
+This document consists of three sections:
+1. Working with GitHub
+2. Collaboration guidelines
+3. GitHub tips & tricks
+
+If you want to actively participate, read this file. Note that to be able to add scrips you need permission. Please create an Issue for this.
+The following guidelines intended for people with permission to add scripts.
+
+1. Working with GitHub
+GitHub makes it possible to share and edit code (e.g. do-files) without overwriting each other’s changes.
+These files are stored in a repository (or repo). There is a main repository containing everything (the remote).
+It is useful to create a clone of this remote repository on your own computer or working environment.
+At the moment of creation, this clone is identical to the remote repository.
+Initially, the repository consists of a “main” branch (hereafter: main).
+It is common practice to create a new branch if you want to make changes.
+You can implement your changes in this new branch.
+Once you are finished and satisfied with your changes, you can push the new branch to the remote.
+There, the changes are reviewed by the code owner and merged into the main branch.
+Afterwards, the new branch can be deleted both locally and on the remote.
+
+2. Collaboration guidelines
+To prevent do-files (or other code files) from being changed without the creator’s consent,
+all modifications must be approved by the code owner.
+In this repository, it is standard practice that the creator of a file becomes its code owner.
+If you want to upload new files, please place them in a newly created folder.
+Name this folder after the organisation of the uploader and describe what the code in the folder does.
+In the CODEOWNERS file, you can then specify that you are the code owner of that folder.
+These changes can be made as described under section 1.
+
+3. GitHub tips & tricks
+If you are new to Git or GitHub, please read the introductory document:
+GitHub_DNB_Arbeidsmobiliteit.docx in this repository.
+If something is unclear or not working properly, you can report an issue by clicking “Issues” in the top-left corner.
+Then create a “New Issue”. The administrator of this repository will review it and either resolve the issue or get in touch.
+You can also use these “Issues” for content-related questions, such as questions or explanations about the code itself.
+
+We look forward to a productive collaboration!
+Git going!
+Cindy, Maikel and Astrid
